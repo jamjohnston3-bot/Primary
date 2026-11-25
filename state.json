@@ -1,7 +1,7 @@
 {
   "B0EXAMPLE1": {
-    "consecutive_failures": 62,
-    "last_checked": "2026-11-24T23:23:15+00:00",
+    "consecutive_failures": 63,
+    "last_checked": "2026-11-25T22:56:24+00:00",
     "last_detail": "Amazon returned a captcha / robot check page",
     "url": "https://www.amazon.com/dp/B0EXAMPLE1"
   }
